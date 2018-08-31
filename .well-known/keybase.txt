@@ -1,0 +1,55 @@
+set -g @plugin 'arcticicestudio/nord-tmux://keybase.io/xyclos
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xyclos.com
+    * I am xyclos (https://keybase.io/xyclos) on keybase.
+      * I have a public key ASBVnx2R0fi4NR-xfNbXCVNAGwUVk888uJS0yZQmxVfo6Qo
+
+      To do so, I am signing this object:
+
+      {
+        "body": {
+            "key": {
+                  "eldest_kid": "0120559f1d91d1f8b8351fb17cd6d70953401b051593cf3cb894b4c99426c557e8e90a",
+                        "host": "keybase.io",
+                              "kid": "0120559f1d91d1f8b8351fb17cd6d70953401b051593cf3cb894b4c99426c557e8e90a",
+                                    "uid": "690ce95373b172816b78a7d389db5d19",
+                                          "username": "xyclos"
+                                              },
+                                                  "merkle_root": {
+                                                        "ctime": 1535729491,
+                                                              "hash": "f0270ef63dd1ec67463771ea1e967aaf20aa780c63033b30884f4c272ec2f0ad019f395f9393f242ae735da4e4a11867102c85a47606f7507db34ee3f475d9d1",
+                                                                    "hash_meta": "440cd64070cf3100ae951b45d9d5bb2cc2cfee12f7de8f9ceeddaa6b5d4e8907",
+                                                                          "seqno": 3544040
+                                                                              },
+                                                                                  "service": {
+                                                                                        "entropy": "e1ta2FC+YiDU5YWknSo29v6Q",
+                                                                                              "hostname": "xyclos.com",
+                                                                                                    "protocol": "https:"
+                                                                                                        },
+                                                                                                            "type": "web_service_binding",
+                                                                                                                "version": 2
+                                                                                                                  },
+                                                                                                                    "client": {
+                                                                                                                        "name": "keybase.io go client",
+                                                                                                                            "version": "2.5.1"
+                                                                                                                              },
+                                                                                                                                "ctime": 1535729503,
+                                                                                                                                  "expire_in": 504576000,
+                                                                                                                                    "prev": "f847a9950e4c9558232f4f9037da13cfc774fdd9782f85949004072b579ec945",
+                                                                                                                                      "seqno": 6,
+                                                                                                                                        "tag": "signature"
+                                                                                                                                        }
+
+                                                                                                                                        which yields the signature:
+
+                                                                                                                                        hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVZ8dkdH4uDUfsXzW1wlTQBsFFZPPPLiUtMmUJsVX6OkKp3BheWxvYWTESpcCBsQg+EeplQ5MlVgjL0+QN9oTz8d0/dl4L4WUkAQHK1eeyUXEIGFDIXTpel48IrCoCaU73BHiUB6Dd+PL9m9bv0wL3kT+AgHCo3NpZ8RA+WU1corZ/yTTLJMN0FqwJxN2fSnx6kRkCv6niR/B+9Q2nMdsFP6niqMt5qoQ1Xs4zf3qarGeDx0lH2r7FtH+DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICwXQyu95lH0Pzp4ueF8CXq4X5aCsA3AvCQwQuanocdao3RhZ80CAqd2ZXJzaW9uAQ==
+
+                                                                                                                                        And finally, I am proving ownership of this host by posting or
+                                                                                                                                        appending to this document.
+
+                                                                                                                                        View my publicly-auditable identity here: https://keybase.io/xyclos
+
+                                                                                                                                        ==================================================================
